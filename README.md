@@ -6,6 +6,8 @@ The list of data used in the study
 DATA90-METAG90-TPM-V2-BASE.txt  : metagenome result
 DATA90-METAT90-TPM-V2-BASE.txt	: metatranscriptomic result
 PRO322-SYN117-SYN-tree-unroot-PROrename-SYNrename.TREE: Phylogenetic tree
+DATA-metaG-Diversity-Index-Simpson-Temperature.opju   : Simpson diversity index sort based on temperature
+DATA-metaG-Diversity-Index-Shannon-SF-DCM-OCT.opj    : Shannon diversity index from SF and DCM
 DATA-metaT-cbbL-per-recA.txt  : cbbL/recA
 DATA-metaT-icd-per-recA.txt   : icd/recA
 DATA-metaT-glnA-per-recA.txt  : glnA/recA
